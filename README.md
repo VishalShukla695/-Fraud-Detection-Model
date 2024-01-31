@@ -1,5 +1,4 @@
 # -Fraud-Detection-Model
-Certainly! Below is a basic template for a README file for your fraud detection project. Feel free to customize it based on your project's specific details and requirements.
 
 ```markdown
 # Fraud Detection Project
@@ -74,7 +73,3 @@ The dataset used in this project contains the following columns:
 
 - Vishal Shukla
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
